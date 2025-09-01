@@ -2,6 +2,8 @@
 
 A customizable finance dashboard where users can build their own real-time finance monitoring dashboard by connecting to various financial APIs and displaying real-time data through customizable widgets.
 
+<img width="1919" height="846" alt="image" src="https://github.com/user-attachments/assets/b1501d6c-28c2-487b-9be6-61cd7584a7f9" />
+
 ## Features
 
 ### 🎯 Widget Management System
